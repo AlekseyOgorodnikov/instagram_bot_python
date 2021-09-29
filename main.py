@@ -124,7 +124,7 @@ class InstagramBot():
             posts_count = int(browser.find_element_by_xpath(
                 "/html/body/div[1]/section/main/div/header/section/ul/li[1]/span/span").text)
             loops_count = int(posts_count / 12)
-            print(loops_count)
+            print(f'Колличество итераций: {loops_count}')
 
             posts_urls = []
             for i in range(0, loops_count):
