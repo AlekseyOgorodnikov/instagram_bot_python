@@ -8,5 +8,3 @@ https://www.instagram.com/un_packing_you/
 https://www.instagram.com/garik._m_777/
 https://www.instagram.com/aleksandrromanov1463/
 https://www.instagram.com/ero_edilyan/
-
-method":"xpath","selector":"/html/body/div[1]/section/main/div/header/section/div[1]/div[1]/div/span/span[1]/button
